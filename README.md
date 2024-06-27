@@ -1,2 +1,2 @@
-# hist-ria
+# historia
 crud historia
